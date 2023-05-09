@@ -3,6 +3,8 @@
 
 I am currently learning iOS development and I would like to build a career as an ios developer! 
 - 👨‍💻 All of my projects are available at [https://github.com/zakir-ufuk](https://github.com/zakir-ufuk)
+- 💻 I’m currently working on [Flash-Chat](https://github.com/zakir-ufuk/Flash-Chat)
+
 
 During my Udemy course I am mostly forking the Repositories from appbrewery (only assets(App Icon etc. please check my commits to see what I have changed!) and than making them an actual functioning mobile applications. 
 
