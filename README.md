@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Zakir Ufuk Sahiner</h1>
+<h1> align="center">Hi 👋, I'm Zakir Ufuk Sahiner</h1>
 <h3 align="center">I am an Internet of Things student</h3>
 
 I am currently learning iOS development and I would like to build a career as an ios developer! 
