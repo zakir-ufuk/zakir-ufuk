@@ -6,7 +6,6 @@ I am currently learning iOS development and I would like to build a career as an
 - 💻 I’m currently working on 100 Days of SwiftUI
 
 
-During the Udemy course I have mostly forked the Repositories from appbrewery which only includes assets (App Icon etc. please check my commits to see what I have changed!) and than making them an actual functioning mobile applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
